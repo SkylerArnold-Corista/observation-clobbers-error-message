@@ -1,0 +1,1 @@
+This is just an example to reference in an issue in the Spring Integration project
