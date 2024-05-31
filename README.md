@@ -1,1 +1,1 @@
-This is just an example to reference in an issue in the Spring Integration project
+This is just an example to reference [in an issue](https://github.com/spring-projects/spring-integration/issues/9198) in the Spring Integration project
